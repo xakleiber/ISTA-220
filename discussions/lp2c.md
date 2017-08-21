@@ -1,6 +1,6 @@
---Lesson Plan 6
+--Lesson Plan 2
 
---SQL
+--C#
 
 --Name: Xavier Kleiber
 

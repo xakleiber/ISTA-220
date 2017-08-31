@@ -1,0 +1,9 @@
+c:\users\wwstudent\documents\visual studio 2017\chapter1\Militarry Inheritance\Militarry Inheritance\bin\Debug\Militarry Inheritance.exe.config
+c:\users\wwstudent\documents\visual studio 2017\chapter1\Militarry Inheritance\Militarry Inheritance\bin\Debug\Militarry Inheritance.exe
+c:\users\wwstudent\documents\visual studio 2017\chapter1\Militarry Inheritance\Militarry Inheritance\bin\Debug\Militarry Inheritance.pdb
+c:\users\wwstudent\documents\visual studio 2017\chapter1\Militarry Inheritance\Militarry Inheritance\obj\Debug\Militarry Inheritance.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\chapter1\Militarry Inheritance\Militarry Inheritance\obj\Debug\Militarry Inheritance.exe
+c:\users\wwstudent\documents\visual studio 2017\chapter1\Militarry Inheritance\Militarry Inheritance\obj\Debug\Militarry Inheritance.pdb
+C:\Users\wwstudent\Desktop\Militarry Inheritance\obj\Debug\Militarry Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Militarry Inheritance\obj\Debug\Militarry Inheritance.exe
+C:\Users\wwstudent\Desktop\Militarry Inheritance\obj\Debug\Militarry Inheritance.pdb
